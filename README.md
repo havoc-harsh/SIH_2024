@@ -41,7 +41,3 @@ CryptTrail is built with a modular architecture consisting of the following key 
 - **Blockchain Integration**:  
   - Connectors that interface directly with various blockchain networks to pull P2P transaction data for analysis.
 
-## Installation
-
-To set up CryptTrail locally, follow these steps:
-
