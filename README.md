@@ -14,9 +14,9 @@ CryptTrail is a web platform enabling security officials to deanonymize P2P Web3
 
 
 # To set up the project locally
-The project consists of two interconnected parts: a next app: CryptoSIH and a flask AI Model powered application : ml
+The project consists of two interconnected parts: a next app: CryptoSIH and a flask AI Model powered application : ml . 
 Clone the repo and run npm install inside CryptoSIH , run pip install inside ml .
-Run Next App locally by running npm run dev in Crypto SIH terminal, and python app.py in ml terminal
+Run Next App locally by running npm run dev in Crypto SIH terminal, and python app.py in ml terminal .
 Now you're ready to experience the app
 
 # About SIH2024 
