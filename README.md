@@ -1,17 +1,26 @@
 # CryptTrail
-
+# Slightly better version in branch
 CryptTrail is a web platform enabling security officials to deanonymize P2P Web3 transactions using a pre-trained AI model that detects suspicious symptoms. This tool is designed to help prevent money laundering and the flow of black money by identifying illicit transaction patterns and flagging them for further investigation.
 
 ## Table of Contents
 
+- [Installation](#installation)
+- [About SIH 2024](#sih2024)
 - [Overview](#overview)
 - [Features](#features)
 - [Architecture](#architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
+
+# To set up the project locally
+The project consists of two interconnected parts: a next app: CryptoSIH and a flask AI Model powered application : ml
+Clone the repo and run npm install inside CryptoSIH , run pip install inside ml .
+Run Next App locally by running npm run dev in Crypto SIH terminal, and python app.py in ml terminal
+Now you're ready to experience the app
+
+# About SIH2024 
+Organized by the Ministry of Education’s Innovation Cell (MIC), SIH 2024 is the biggest hackathon in India with a NationWide Participation .
+Team Participation: More than 86,000 teams participated at the institute level, comprising over 5,16,000 students
+Grand Finale: Over 1,300 student teams advanced to the Grand Finale of SIH 2024, which was held across 51 nodal centers nationwide. The Software Edition featured a continuous 36-hour coding marathon, while the Hardware Edition spanned from December 11 to 15, 2024
 
 ## Overview
 
