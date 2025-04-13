@@ -1,4 +1,4 @@
-# IMP: This was migrated here from gitLab ,orignal repo was made private by SIH officials on gitlab
+# IMPORTANT: This Project was migrated here from gitLab, orignal repo was made private by SIH officials on gitlab
 **Slightly better version in leftversion branch** 
 
 # CryptTrail
