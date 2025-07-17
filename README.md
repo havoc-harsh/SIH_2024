@@ -41,7 +41,7 @@ In today's rapidly evolving financial landscape, the rise of decentralized trans
 CryptTrail is built with a modular architecture consisting of the following key components:
 
 - **Frontend**:  
-  - A responsive web interface (built with frameworks like React) that displays transaction data, alerts, and detailed reports.
+  - A responsive web interface (built with frameworks like React) that displays transaction data,alerts,and detailed reports.
   
 - **Backend**:  
   - A server-side application responsible for fetching transaction data from blockchain networks, processing this data, and interfacing with the AI model.
