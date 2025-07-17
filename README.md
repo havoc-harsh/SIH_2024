@@ -2,7 +2,7 @@
 **Slightly better version in leftversion branch** 
 
 # CryptTrail
-CryptTrail is a web platform enabling security officials to deanonymize P2P Web3 transactions using a pre-trained AI model that detects suspicious symptoms. This tool is designed to help prevent money laundering and the flow of black money by identifying illicit transaction patterns and flagging them for further investigation.
+CryptTrail is a web-based platform that assists security officials in deanonymizing peer-to-peer Web3 transactions using a pre-trained AI model to detect suspicious patterns. Designed to combat money laundering and illicit financial activity, it identifies and flags potentially unlawful transactions for further investigation.
 
 ## Table of Contents
 
