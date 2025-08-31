@@ -1,6 +1,6 @@
 # IMPORTANT: This Project was migrated here from gitLab, orignal repo was made private by SIH officials on gitlab
 **Slightly better version in leftversion branch** 
-
+   
 # CryptTrail
 CryptTrail is a web-based platform that assists security officials in deanonymizing peer-to-peer Web3 transactions using a pre-trained AI model to detect suspicious patterns. Designed to combat money laundering and illicit financial activity, it identifies and flags potentially unlawful transactions for further investigation.
 
